@@ -1,4 +1,4 @@
-# Finn (CSS Only)
+# Finn
 
 ## Preview
 <div>
