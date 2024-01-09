@@ -1,4 +1,4 @@
-# Doctor Strange (Doutor Estranho) Logo - CSS
+# Doutor Estranho
 
 - CSS
   - overflow: hidden
